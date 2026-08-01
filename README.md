@@ -69,4 +69,4 @@ This project demonstrates how to generate secure random passwords using Python's
 **Man Patel**
 
 B.Tech CSE Student  
-DecodeLabs Python Industrial Training – Project 3
+DecodeLabs Python 
